@@ -14,10 +14,10 @@ ddev exec go version
 
 # Build and start the server
 ddev exec go run main.go
-
-# Open the browser
-ddev launch
 ```
+
+Open the browser and navigate to `http://ddev-golang.ddev.site/`.
+
 
 ## TODO
 
